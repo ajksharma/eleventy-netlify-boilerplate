@@ -12,7 +12,8 @@ Leverage our agile Customer Success Transformation frameworks to have a 360 degr
 ## Our services
 
 Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-![Image of Yaktocat](../static/img/CustomerTransformation.png)
+
+<img align="left" src="../static/img/CustomerTransformation.png" width=200 > ![](images/k8s-dashboard-namespace.png)
 
 
 ### Blue-sky thinking
