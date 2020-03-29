@@ -7,7 +7,9 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
-# Welcome
+# Welcome Customer Success Advocates!!!
+
+Please join our community to learn more as how to succeed as a CSM
 
 This is a template for building a simple blog website with the [Eleventy static site generator](https://www.11ty.io), with deployment to [Netlify](https://www.netlify.com).
 
